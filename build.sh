@@ -5,3 +5,5 @@
 cd bin
 
 make
+
+exit 0
