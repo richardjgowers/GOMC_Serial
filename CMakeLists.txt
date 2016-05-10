@@ -53,3 +53,6 @@ set(NVT_flags "-DENSEMBLE=1")
 set(NVT_name "GOMC_Serial_NVT")
 
 add_subdirectory(src)
+
+enable_testing ()
+add_subdirectory(tests)

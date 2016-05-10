@@ -6,4 +6,5 @@ cd bin
 
 make
 
-exit 0
+make test
+
