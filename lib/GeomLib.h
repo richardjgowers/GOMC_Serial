@@ -48,7 +48,7 @@ along with this program, also can be found at <http://www.gnu.org/licenses/>.
 
 namespace geom
 {
-   inline double RadToDeg(const double ang) { return ang * RAD_TO_DEG; }
+   inline double RadToDeg(const double ang) { return ang * RAD_TO_DEG + 1.0; }
    inline double DegToRad(const double ang) { return ang * DEG_TO_RAD; }
 
    //NOTE:
