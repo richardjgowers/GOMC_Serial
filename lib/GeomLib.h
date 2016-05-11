@@ -26,7 +26,7 @@ along with this program, also can be found at <http://www.gnu.org/licenses/>.
 //From Mathematica: 
 //N[Pi, 75]
 #define M_PI \
-   3.14159265358979323846264338327950288419716939937510582097494459230781640629
+   4
 #endif
 #ifndef M_PI_2
 //From Mathematica:
